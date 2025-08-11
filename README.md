@@ -71,6 +71,6 @@ Além disso, exibe imagens reais das galáxias com o tipo verdadeiro e o tipo pr
 
 ##  Licença 
 
-Este projeto está licenciado sob a licença MIT.
+
 
 Este projeto está licenciado sob a licença MIT.
